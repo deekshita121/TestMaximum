@@ -31,3 +31,7 @@ INFO  | 2020-10-12 22:44:21 | [main] testMaximum.TestMaximum (TestMaximum.java:4
 INFO  | 2020-10-12 22:44:21 | [main] testMaximum.TestMaximum (TestMaximum.java:46) - The maximum in 45, 60, 55 is 60
 INFO  | 2020-10-12 22:48:46 | [main] testMaximum.TestMaximum (TestMaximum.java:42) - 55
 INFO  | 2020-10-12 22:48:46 | [main] testMaximum.TestMaximum (TestMaximum.java:44) - 60
+INFO  | 2020-10-12 23:01:12 | [main] testMaximum.TestMaximum (TestMaximum.java:39) - Maximum among the list is 55
+INFO  | 2020-10-12 23:01:12 | [main] testMaximum.TestMaximum (TestMaximum.java:39) - Maximum among the list is 60
+INFO  | 2020-10-12 23:02:05 | [main] testMaximum.TestMaximum (TestMaximum.java:39) - Maximum among the list is 55
+INFO  | 2020-10-12 23:02:05 | [main] testMaximum.TestMaximum (TestMaximum.java:39) - Maximum among the list is orange
