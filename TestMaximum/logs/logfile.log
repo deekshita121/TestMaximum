@@ -27,3 +27,7 @@ INFO  | 2020-10-12 21:24:45 | [main] testMaximum.TestMaximum (TestMaximum.java:4
 INFO  | 2020-10-12 21:24:45 | [main] testMaximum.TestMaximum (TestMaximum.java:48) - The maximum in 45, 60, 55 is 55
 INFO  | 2020-10-12 21:26:01 | [main] testMaximum.TestMaximum (TestMaximum.java:47) - The maximum in 40, 20, 55 is 55
 INFO  | 2020-10-12 21:26:01 | [main] testMaximum.TestMaximum (TestMaximum.java:48) - The maximum in 45, 60, 55 is 60
+INFO  | 2020-10-12 22:44:21 | [main] testMaximum.TestMaximum (TestMaximum.java:45) - The maximum in 40, 20, 55 is 55
+INFO  | 2020-10-12 22:44:21 | [main] testMaximum.TestMaximum (TestMaximum.java:46) - The maximum in 45, 60, 55 is 60
+INFO  | 2020-10-12 22:48:46 | [main] testMaximum.TestMaximum (TestMaximum.java:42) - 55
+INFO  | 2020-10-12 22:48:46 | [main] testMaximum.TestMaximum (TestMaximum.java:44) - 60

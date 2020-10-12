@@ -1,37 +1,35 @@
 package com.capg.testMaximum;
 
+import java.util.*;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 
 public class TestMaximum <T extends Comparable<T>>
 {
-	
+	List<T> inputs;
 	private static final Logger log = LogManager.getLogger(TestMaximum.class);
 	T x, y, z;
 	
-	public TestMaximum(T x, T y, T z)
+	public TestMaximum(T...inputs)
 	{
-		super();
-		this.x=x;
-		this.y=y; 
-		this.z=z;
+		this.inputs=Arrays.asList(inputs);
 	}
 	
 	public T toMax()
 	{
-		return  TestMaximum.toMax(this.x,this.y,this.z);
+		return  TestMaximum.toMax(inputs);
 		
 	}
 	
-	public static <T extends Comparable<T>> T toMax(T x, T y, T z)
+	public static <T extends Comparable<T>> T toMax(List<T> inputs)
 	{
-		T max = x;
-		if(y.compareTo(max)>0)
-			max=y;
-		if(z.compareTo(max)>0)
-			max=z;
-	
+
+		T max;
+		List<T> sortedList = new ArrayList<>(inputs);
+		Collections.sort(sortedList);
+		max = sortedList.get(sortedList.size() - 1);
 		return max;
 	}
 	
@@ -40,12 +38,11 @@ public class TestMaximum <T extends Comparable<T>>
     public static void main( String[] args )
     {
     	
-		Integer a=40, b=20, c=55;
-		TestMaximum<Integer>testMaximum=new TestMaximum<Integer>(a,b,c);
-		String d="45", e="60", f="55";
-		TestMaximum<String>testMaximum1=new TestMaximum<String>(d,e,f);
-		log.info("The maximum in "+a+", "+b+", "+c+" is "+testMaximum.toMax());
-		log.info("The maximum in "+d+", "+e+", "+f+" is "+testMaximum1.toMax());
+		Integer a=40, b=20, c=55, d=2, e=43;
+		log.info(new TestMaximum<Integer>(a,b,c,d,e).toMax());
+		String m="45", n="60", o="55", p="6", q="21";
+		log.info(new TestMaximum<String>(m,n,o,p,q).toMax());
+		
 		
     }
 }
