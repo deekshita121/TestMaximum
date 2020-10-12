@@ -17,3 +17,6 @@ INFO  | 2020-10-12 19:48:39 | [main] testMaximum.TestMaximum (TestMaximum.java:5
 INFO  | 2020-10-12 19:49:36 | [main] testMaximum.TestMaximum (TestMaximum.java:54) - The maximum integer in 40, 20, 25 is 40
 INFO  | 2020-10-12 19:49:36 | [main] testMaximum.TestMaximum (TestMaximum.java:55) - The maximum float in 20.0, 13.0, 21.0 is 21.0
 INFO  | 2020-10-12 19:49:36 | [main] testMaximum.TestMaximum (TestMaximum.java:56) - The maximum string in 15, 32, 21 is 32
+INFO  | 2020-10-12 20:02:59 | [main] testMaximum.TestMaximum (TestMaximum.java:30) - The maximum integer in 40, 20, 25 is 40
+INFO  | 2020-10-12 20:03:56 | [main] testMaximum.TestMaximum (TestMaximum.java:30) - The maximum integer in 40, 20, 25 is 40
+INFO  | 2020-10-12 20:04:14 | [main] testMaximum.TestMaximum (TestMaximum.java:30) - The maximum integer in 40, 20, 55 is 55
