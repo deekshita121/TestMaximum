@@ -20,3 +20,10 @@ INFO  | 2020-10-12 19:49:36 | [main] testMaximum.TestMaximum (TestMaximum.java:5
 INFO  | 2020-10-12 20:02:59 | [main] testMaximum.TestMaximum (TestMaximum.java:30) - The maximum integer in 40, 20, 25 is 40
 INFO  | 2020-10-12 20:03:56 | [main] testMaximum.TestMaximum (TestMaximum.java:30) - The maximum integer in 40, 20, 25 is 40
 INFO  | 2020-10-12 20:04:14 | [main] testMaximum.TestMaximum (TestMaximum.java:30) - The maximum integer in 40, 20, 55 is 55
+INFO  | 2020-10-12 21:20:32 | [main] testMaximum.TestMaximum (TestMaximum.java:45) - The maximum integer in 40, 20, 55 is 55
+INFO  | 2020-10-12 21:24:20 | [main] testMaximum.TestMaximum (TestMaximum.java:47) - The maximum in 40, 20, 55 is 55
+INFO  | 2020-10-12 21:24:20 | [main] testMaximum.TestMaximum (TestMaximum.java:48) - The maximum in 40, 20, 55 is 55
+INFO  | 2020-10-12 21:24:45 | [main] testMaximum.TestMaximum (TestMaximum.java:47) - The maximum in 40, 20, 55 is 55
+INFO  | 2020-10-12 21:24:45 | [main] testMaximum.TestMaximum (TestMaximum.java:48) - The maximum in 45, 60, 55 is 55
+INFO  | 2020-10-12 21:26:01 | [main] testMaximum.TestMaximum (TestMaximum.java:47) - The maximum in 40, 20, 55 is 55
+INFO  | 2020-10-12 21:26:01 | [main] testMaximum.TestMaximum (TestMaximum.java:48) - The maximum in 45, 60, 55 is 60
