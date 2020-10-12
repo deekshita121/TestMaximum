@@ -2,3 +2,6 @@ INFO  | 2020-10-12 18:38:55 | [main] testMaximum.TestMaximum (TestMaximum.java:1
 INFO  | 2020-10-12 19:10:54 | [main] testMaximum.TestMaximum (TestMaximum.java:29) - The maximum integer in 10, 20, 15 is 20
 INFO  | 2020-10-12 19:11:19 | [main] testMaximum.TestMaximum (TestMaximum.java:29) - The maximum integer in 10, 20, 25 is 25
 INFO  | 2020-10-12 19:11:36 | [main] testMaximum.TestMaximum (TestMaximum.java:29) - The maximum integer in 40, 20, 25 is 40
+INFO  | 2020-10-12 19:32:11 | [main] testMaximum.TestMaximum (TestMaximum.java:42) - The maximum integer in 40, 20, 25 is 40
+INFO  | 2020-10-12 19:33:43 | [main] testMaximum.TestMaximum (TestMaximum.java:42) - The maximum integer in 40, 20, 25 is 40
+INFO  | 2020-10-12 19:33:43 | [main] testMaximum.TestMaximum (TestMaximum.java:43) - The maximum float in 20.0, 13.0, 21.0 is 21.0
