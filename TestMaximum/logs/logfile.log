@@ -5,3 +5,15 @@ INFO  | 2020-10-12 19:11:36 | [main] testMaximum.TestMaximum (TestMaximum.java:2
 INFO  | 2020-10-12 19:32:11 | [main] testMaximum.TestMaximum (TestMaximum.java:42) - The maximum integer in 40, 20, 25 is 40
 INFO  | 2020-10-12 19:33:43 | [main] testMaximum.TestMaximum (TestMaximum.java:42) - The maximum integer in 40, 20, 25 is 40
 INFO  | 2020-10-12 19:33:43 | [main] testMaximum.TestMaximum (TestMaximum.java:43) - The maximum float in 20.0, 13.0, 21.0 is 21.0
+INFO  | 2020-10-12 19:47:50 | [main] testMaximum.TestMaximum (TestMaximum.java:54) - The maximum integer in 40, 20, 25 is 40
+INFO  | 2020-10-12 19:47:50 | [main] testMaximum.TestMaximum (TestMaximum.java:55) - The maximum float in 20.0, 13.0, 21.0 is 21.0
+INFO  | 2020-10-12 19:47:50 | [main] testMaximum.TestMaximum (TestMaximum.java:56) - The maximum string in m, n, o is 21.0
+INFO  | 2020-10-12 19:48:10 | [main] testMaximum.TestMaximum (TestMaximum.java:54) - The maximum integer in 40, 20, 25 is 40
+INFO  | 2020-10-12 19:48:10 | [main] testMaximum.TestMaximum (TestMaximum.java:55) - The maximum float in 20.0, 13.0, 21.0 is 21.0
+INFO  | 2020-10-12 19:48:10 | [main] testMaximum.TestMaximum (TestMaximum.java:56) - The maximum string in m, n, o is o
+INFO  | 2020-10-12 19:48:39 | [main] testMaximum.TestMaximum (TestMaximum.java:54) - The maximum integer in 40, 20, 25 is 40
+INFO  | 2020-10-12 19:48:39 | [main] testMaximum.TestMaximum (TestMaximum.java:55) - The maximum float in 20.0, 13.0, 21.0 is 21.0
+INFO  | 2020-10-12 19:48:39 | [main] testMaximum.TestMaximum (TestMaximum.java:56) - The maximum string in m, no, op is op
+INFO  | 2020-10-12 19:49:36 | [main] testMaximum.TestMaximum (TestMaximum.java:54) - The maximum integer in 40, 20, 25 is 40
+INFO  | 2020-10-12 19:49:36 | [main] testMaximum.TestMaximum (TestMaximum.java:55) - The maximum float in 20.0, 13.0, 21.0 is 21.0
+INFO  | 2020-10-12 19:49:36 | [main] testMaximum.TestMaximum (TestMaximum.java:56) - The maximum string in 15, 32, 21 is 32
